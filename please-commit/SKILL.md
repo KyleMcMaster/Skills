@@ -18,5 +18,5 @@ Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
 If the session is not running on a Fable 5 model, fall back to:
 
 ```
-Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 ```
