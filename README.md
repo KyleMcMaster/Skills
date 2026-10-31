@@ -4,9 +4,9 @@ A collection of Skills for Claude, Codex, etc that I have found useful
 
 ## please-commit
 
-Commit the current working-tree changes, splitting into multiple commits as needed.
+Commit the current working-tree changes, splitting into multiple commits as needed. Pass `coauthor` to end each commit with a `Co-Authored-By` trailer naming the model running the session.
 
-**Usage:** `/please-commit`
+**Usage:** `/please-commit [coauthor]`
 
 ## update-packages
 
